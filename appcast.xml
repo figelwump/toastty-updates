@@ -1,10 +1,17 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Toastty Updates</title>
         <link>https://updates.toastty.dev/appcast.xml</link>
         <description>Toastty Sparkle update feed.</description>
         <language>en</language>
+        <item>
+            <title>Version 0.3.0</title>
+            <pubDate>Fri, 27 Mar 2026 22:29:39 +0000</pubDate>
+            <link>https://github.com/figelwump/toastty/releases/tag/v0.3.0</link>
+            <description>Toastty 0.3.0 is available.</description>
+            <enclosure url="https://github.com/figelwump/toastty/releases/download/v0.3.0/Toastty-0.3.0.dmg" length="15795200" type="application/x-apple-diskimage" sparkle:version="4" sparkle:shortVersionString="0.3.0" sparkle:minimumSystemVersion="14.0" sparkle:edSignature="lu1CHjg5pNNsV7SCwu0qaGteVVxXBzaKZgI8Fat2hZojQXvw4cZvoPjwAPg8ostfQQAzAQLWId+4VGeCPN3aCQ==" />
+        </item>
         <item>
             <title>Version 0.2.0</title>
             <pubDate>Tue, 24 Mar 2026 00:19:20 +0000</pubDate>
