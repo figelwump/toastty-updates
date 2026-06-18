@@ -6,6 +6,14 @@
         <description>Toastty Sparkle update feed.</description>
         <language>en</language>
         <item>
+            <title>Version 0.7.1</title>
+            <pubDate>Thu, 18 Jun 2026 21:39:30 +0000</pubDate>
+            <link>https://github.com/figelwump/toastty/releases/tag/v0.7.1</link>
+            <sparkle:releaseNotesLink>https://github.com/figelwump/toastty/releases/tag/v0.7.1</sparkle:releaseNotesLink>
+            <description>Toastty 0.7.1 is available.</description>
+            <enclosure url="https://github.com/figelwump/toastty/releases/download/v0.7.1/Toastty-0.7.1.dmg" length="21492565" type="application/x-apple-diskimage" sparkle:version="28" sparkle:shortVersionString="0.7.1" sparkle:minimumSystemVersion="14.0" sparkle:edSignature="ivfadRf2U0B4X0xLZ0HzTwYvWQEezkVo+qJHp9hFXABjUhvu9YNIjxobZyw7iy91JD1O/9vKVoB1wL5EPRG1DA==" />
+        </item>
+        <item>
             <title>Version 0.7.0</title>
             <pubDate>Mon, 15 Jun 2026 04:07:26 +0000</pubDate>
             <link>https://github.com/figelwump/toastty/releases/tag/v0.7.0</link>
